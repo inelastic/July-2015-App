@@ -305,8 +305,8 @@ def asym_plots(df, run, df2, plots):
 #Setup data to be displayed
 ###############################################################################
 #setting the directory and grabbing the filenames
-#directory="https://raw.githubusercontent.com/inelastic/feb-2016-app/master/ProcessedCSV/"
-directory="E:/Storage/Documents/Python Files/RALAnalysis/July 2015 App/ProcessedCSV/"
+directory="https://raw.githubusercontent.com/inelastic/july-2015-app/master/ProcessedCSV/"
+#directory="E:/Storage/Documents/Python Files/RALAnalysis/July 2015 App/ProcessedCSV/"
 filenames = ['84390',
  '84391',
  '84392',
